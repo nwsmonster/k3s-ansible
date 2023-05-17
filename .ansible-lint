@@ -1,0 +1,3 @@
+# ansible-lint and the VSCode YAML extension don't play along well on my machine and I don't care to fix it
+exclude_paths:
+  - '*'

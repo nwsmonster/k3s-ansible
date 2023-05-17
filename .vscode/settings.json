@@ -1,0 +1,18 @@
+{
+  "files.associations": {
+    "LICENSE": "plaintext",
+    "NOTICE": "markdown",
+    "*.yml": "ansible"
+  },
+  "files.insertFinalNewline": true,
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": true,
+  "markdownlint.ignore": [
+    "LICENSE",
+    "NOTICE"
+  ],
+  "markdownlint.config": {
+    "no-duplicate-header": false
+  }
+}
